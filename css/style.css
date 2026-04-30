@@ -1,0 +1,77 @@
+body {
+    background-color: #609fd6;
+}
+#techark {
+    background-color: #1c4875;
+    border: 3px solid #fff;
+    padding: 30px 25px 10px 25px;
+    
+}
+#techark figure {
+    width: 150px;
+    height: 150px;
+}
+#techark figure img {
+    drop-shadow: 15px 15px 15px rgba(0,0,0,0.3);
+}
+#techark p {
+    font-size: 1rem;
+   
+}
+#techark ul {
+    list-style: none;
+    padding: 0;
+}
+#techark ul li {
+    border: 1px solid #fff; 
+    border-radius: 5px;
+    margin: 12px 0;
+    background-color: #609fd6;
+    padding: 6px 8px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.2);
+    
+}
+#techark a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+    
+}
+
+#techark ul li:hover {
+    background-color: #fff;
+   transition: .3s all;
+}
+
+
+#techark ul li:hover .insta {
+    color: #E1306C;
+}
+#techark ul li:hover .tiktok {
+    color: #000000;
+}
+#techark ul li:hover .x{
+    color: #1DA1F2;
+}
+#techark ul li:hover .threads {
+    color: #000000;
+}
+#techark ul li:hover .whats {
+    color: #25D366;
+}
+#techark ul li:hover .call {
+        color: #1DA1F2;
+
+}
+
+
+
+
+
+
+
+
+
+
+
