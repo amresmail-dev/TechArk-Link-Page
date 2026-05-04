@@ -45,6 +45,10 @@ body {
 }
 
 
+#techark ul li:hover .face {
+    color: #1877F2;
+}
+
 #techark ul li:hover .insta {
     color: #E1306C;
 }
@@ -56,6 +60,9 @@ body {
 }
 #techark ul li:hover .threads {
     color: #000000;
+}
+#techark ul li:hover .telegram {
+    color: #24A1DE;
 }
 #techark ul li:hover .whats {
     color: #25D366;
